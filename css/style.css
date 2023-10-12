@@ -9,4 +9,8 @@
 
 /* COMPONENTES */
 @import './utilidades/botao.css';
+@import './utilidades/tipografia.css';
+@import './utilidades/cores.css';
 
+/* BICICLETAS */
+@import './bicicletas/bicicletas-lista.css';
