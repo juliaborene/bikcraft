@@ -18,7 +18,7 @@ img{
     max-width: 100%;
     display: block;
 }
-h1,h2,h3,h4,ul,p{
+h1,h2,h3,h4,ul,p,blockquote{
     margin: 0;
 }
 

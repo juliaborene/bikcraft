@@ -3,14 +3,22 @@
 /* NAV */
 @import './global/header.css';
 @import './global/global.css';
+@import './global/footer.css';
 
 /* HOME */
 @import './home/intro.css';
+@import './home/tecnologia.css';
+@import './home/parceiros.css';
+@import './home/depoimento.css';
+
 
 /* COMPONENTES */
-@import './utilidades/botao.css';
+@import './utilidades/componentes.css';
 @import './utilidades/tipografia.css';
 @import './utilidades/cores.css';
 
 /* BICICLETAS */
 @import './bicicletas/bicicletas-lista.css';
+
+/* SEGUROS */
+@import './seguros/seguros.css';
