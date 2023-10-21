@@ -3,7 +3,6 @@ body{
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     color: #111;
-    height: 2000px;
 }
 
 ul{
@@ -16,9 +15,10 @@ a{
 }
 img{
     max-width: 100%;
+    height: auto;
     display: block;
 }
-h1,h2,h3,h4,ul,p,blockquote{
+h1,h2,h3,h4,ul,p,blockquote,dd{
     margin: 0;
 }
 
